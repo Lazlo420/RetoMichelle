@@ -1,0 +1,3 @@
+geopandas
+descartes
+urbanpy==0.2.2.dev1
